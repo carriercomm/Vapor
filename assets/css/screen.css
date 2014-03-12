@@ -81,6 +81,13 @@ h1 {
   margin: 0;
   padding: 0;
 }
+.followup {
+  font-size: 14px !important;
+  background: #eee;
+  padding: 1.2em;
+  border-radius: 2px;
+}
+
 #site-head,
 article,
 nav,
